@@ -1,6 +1,13 @@
 # vimrc
 My .vimrc file to use over multiple systems
 
+## Clone this
+
+```bash
+git clone https://github.com/Divepit/vimrc.git
+```
+
+
 ## Install Vundle
 
 ```bash
