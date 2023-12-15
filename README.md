@@ -7,6 +7,11 @@ My .vimrc file to use over multiple systems
 git clone https://github.com/Divepit/vimrc.git
 ```
 
+## copy vimrc to home
+
+```bash
+cp .vimrc ~/
+```
 
 ## Install Vundle
 
